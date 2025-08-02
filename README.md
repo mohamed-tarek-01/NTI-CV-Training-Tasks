@@ -31,7 +31,7 @@ The work covers key areas of modern vision applications using Python, deep learn
 ## 🏆 Competitions
 
 - [🌟 Eid Adha Classification Challenge](https://www.kaggle.com/competitions/sheep-classification-challenge-2025) 
-- [🌵 Aerial Cactus identification Challenge](https://www.kaggle.com/competitions/aerial-cactus-identification)
+- [🌵 Aerial Cactus Identification Challenge](https://www.kaggle.com/competitions/aerial-cactus-identification)
 
 ## 🎓 Final Project: Land Cover Segmentation
 
