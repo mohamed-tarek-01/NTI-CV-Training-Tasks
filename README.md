@@ -62,7 +62,7 @@ Dataset: [DeepGlobe Land Cover Classification](https://www.kaggle.com/datasets/b
 
 ## 🎓 About the Internship
 
-> This hands-on internship at NTI provided exposure to real-world problems in Computer Vision. The tasks focused on building models from scratch, fine-tuning pre-trained networks, and evaluating performance in diverse domains.
+This hands-on internship at NTI provided exposure to real-world problems in Computer Vision. The tasks focused on building models from scratch, fine-tuning pre-trained networks, and evaluating performance in diverse domains.
 
 ---
 
