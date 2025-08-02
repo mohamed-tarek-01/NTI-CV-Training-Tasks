@@ -18,20 +18,45 @@ The work covers key areas of modern vision applications using Python, deep learn
 ## 🧰 Tech Stack
 
 | Category        | Tools Used                                             |
-|----------------|---------------------------------------------------------|
+|---------------- |--------------------------------------------------------|
 | Language        | Python                                                 |
 | Frameworks      | TensorFlow, PyTorch                                    |
 | Libraries       | OpenCV, NumPy, Matplotlib                              |
-| Platforms       | Jupyter Notebook, Google Colab                         |
+| Platforms       | Kaggle, Google Colab                                   |
 
 ---
 
 ## 📂 Datasets Used
-- **https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation**
-- 🩺 **Chest X-Ray Pneumonia**
-- 🌵 **Aerial Cactus Identification**
-- ☀️ **Solar Panel Fault Detection**
-- 🚘 **Custom YOLO License Plate Dataset**
+
+- [🩺 Chest X-Ray Pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- [☀️ Solar Panel Fault Detection](https://www.kaggle.com/datasets/pythonafroz/solar-panel-images)
+- [🧠 Brain Tumor Segmentation (MRI)](https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation)
+- [🛣️ Road Extraction (DeepGlobe)](https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset)
+- [🚘 License Plate Detection (Custom YOLOv11)](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4)
+
+---
+
+## 🏆 Competitions
+
+- [🌟 Eid Adha Classification Challenge](https://www.kaggle.com/competitions/sheep-classification-challenge-2025) 
+- [🌵 Aerial Cactus identification Challenge](https://www.kaggle.com/competitions/aerial-cactus-identification)
+
+---
+
+## 🎓 Final Project: Land Cover Segmentation
+
+This is the capstone project of the NTI Computer Vision internship.
+
+The task involves segmenting satellite imagery into multiple land cover classes using semantic segmentation models.
+
+**Implemented Models**:
+- UNet from scratch
+- VGG16-based UNet (encoder-decoder)
+
+**Objective**:
+Classify each pixel in satellite images into categories like urban areas, agriculture, forest, water, barren land, etc.
+
+Dataset: [DeepGlobe Land Cover Classification](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset)
 
 ---
 
@@ -44,15 +69,3 @@ The work covers key areas of modern vision applications using Python, deep learn
 ## 📌 Repository Purpose
 
 This repository serves as part of my AI/Computer Vision learning journey and acts as a technical portfolio for future collaborations or roles in deep learning and applied AI.
-
----
-
-## 🔗 Contact
-
-**Mohamed Tarek**  
-📧 mohamedtarek.ai.dev@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-tarek-ai/) • [GitHub](https://github.com/mohamed-tarek-01) • [Kaggle](https://www.kaggle.com/mohamedtarek77)
-
----
-
-> ⭐ Feel free to star or fork this repo if you find it helpful or inspiring.
