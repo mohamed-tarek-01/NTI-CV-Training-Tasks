@@ -1,10 +1,9 @@
-# 🧠 NTI Computer Vision Internship Projects
+# 🧠 NTI Computer Vision Training Tasks & Final Project
 
-This repository showcases a variety of practical Computer Vision tasks and mini-projects completed during my internship at the **National Telecommunication Institute (NTI)**.
+This repository showcases a variety of practical Computer Vision tasks and mini-projects completed during my training at the **National Telecommunication Institute (NTI)**.
 
 The work covers key areas of modern vision applications using Python, deep learning frameworks, and real-world datasets.
 
----
 
 ## 📁 Project Highlights
 
@@ -60,9 +59,9 @@ Dataset: [DeepGlobe Land Cover Classification](https://www.kaggle.com/datasets/b
 
 ---
 
-## 🎓 About the Internship
+## 🎓 About the Training
 
-This hands-on internship at NTI provided exposure to real-world problems in Computer Vision. The tasks focused on building models from scratch, fine-tuning pre-trained networks, and evaluating performance in diverse domains.
+This hands-on training at NTI provided exposure to real-world problems in Computer Vision. The tasks focused on building models from scratch, fine-tuning pre-trained networks, and evaluating performance in diverse domains.
 
 ---
 
