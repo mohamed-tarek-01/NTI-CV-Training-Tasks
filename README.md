@@ -16,7 +16,7 @@ The work covers key areas of modern vision applications using Python, deep learn
 | Category        | Tools Used                                             |
 |---------------- |--------------------------------------------------------|
 | Language        | Python                                                 |
-| Frameworks      | TensorFlow, PyTorch                                    |
+| Frameworks      | TensorFlow                                             |
 | Libraries       | OpenCV, NumPy, Matplotlib                              |
 | Platforms       | Kaggle, Google Colab                                   |
 
